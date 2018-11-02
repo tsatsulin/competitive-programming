@@ -1,0 +1,1 @@
+powershell -Command Measure-Command { test.exe < tests/in1000 }  

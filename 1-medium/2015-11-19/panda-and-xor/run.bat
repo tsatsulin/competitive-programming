@@ -1,0 +1,1 @@
+py -2 test.py < tests/in1000
